@@ -1,0 +1,2 @@
+florg (admi) contraseña: 12345678
+DayG (cliente) contraseña: 789456123
